@@ -1,7 +1,3 @@
-Here’s a clean, ready-to-use `README.md` for your calculator project that you can copy and paste directly into your GitHub repository:
-
----
-
 # Calculator
 
 A simple calculator web application built with HTML, CSS, and JavaScript.
